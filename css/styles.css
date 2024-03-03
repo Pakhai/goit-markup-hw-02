@@ -43,7 +43,9 @@ button {
 .header-menu-link:focus {
   color: #404bbf;
 }
-
+.header-contact {
+  font-style: normal;
+}
 .header-contact-link {
   font-size: 16px;
   line-height: 1.5;
@@ -104,6 +106,10 @@ button {
 /*---------team-------*/
 .team {
   background-color: #f4f4fd;
+}
+
+.team-list-item {
+  background-color: #ffffff;
 }
 
 .team-title {
