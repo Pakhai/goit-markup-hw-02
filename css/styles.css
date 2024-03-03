@@ -13,12 +13,12 @@ button {
   cursor: pointer;
 }
 .visually-hidden {
-  /*position: absolute;
+  position: absolute;
   width: 1px;
   height: 1px;
   margin: -1px;
   border: 0;
-  padding: 0;*/
+  padding: 0;
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
@@ -197,7 +197,6 @@ button {
 .footer {
   font-family: "Raleway", sans-serif;
   background: #2e2f42;
-  color: #4d5ae5;
 }
 .footer-link {
   font-weight: 700;
@@ -205,6 +204,7 @@ button {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 .footer-logo-color {
