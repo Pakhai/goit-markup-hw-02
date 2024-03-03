@@ -55,11 +55,11 @@ button {
 }
 
 .header-menu-link:hover {
-  color: #404bbf;
+  color: #4d5ae5;
 }
 
 .header-menu-link:focus {
-  color: #404bbf;
+  color: #4d5ae5;
 }
 
 .header-contact {
@@ -89,7 +89,7 @@ button {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  /*text-align: center;*/
+  text-align: center;
   color: #fff;
 }
 .hero-order-btn {
@@ -103,7 +103,7 @@ button {
 }
 .hero-order-btn:hover,
 .hero-order-btn:focus {
-  color: #404bbf;
+  color: #4d5ae5;
 }
 
 /*-------advantages-------*/
@@ -140,7 +140,7 @@ button {
   color: #2e2f42;
 }
 .team-list {
-  background-color: #ffffff;
+  background-color: #fff;
 }
 .team-list-item {
 }
