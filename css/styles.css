@@ -128,7 +128,7 @@ button {
 }
 /*---------team-------*/
 .team {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 .team-title {
   text-transform: capitalize;
@@ -136,7 +136,7 @@ button {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  /*text-align: center;*/
+  text-align: center;
   color: #2e2f42;
 }
 .team-list {
@@ -151,7 +151,7 @@ button {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  /*text-align: center;*/
+  text-align: center;
   color: #2e2f42;
 }
 .team-item-text {
@@ -169,7 +169,7 @@ button {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  /*text-align: center;*/
+  text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
 }
