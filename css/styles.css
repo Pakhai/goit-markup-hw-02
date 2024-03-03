@@ -13,12 +13,12 @@ button {
   cursor: pointer;
 }
 .visually-hidden {
-  position: absolute;
+  /*position: absolute;
   width: 1px;
   height: 1px;
   margin: -1px;
   border: 0;
-  padding: 0;
+  padding: 0;*/
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
@@ -56,10 +56,11 @@ button {
 
 .header-menu-link:hover,
 .header-menu-link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 .header-contact {
+  font-style: normal;
 }
 .header-contact-list {
 }
@@ -89,6 +90,7 @@ button {
   color: #fff;
 }
 .hero-order-btn {
+  font-family: "Roboto", sans-serif;
   background: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -132,7 +134,7 @@ button {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
-  /*color: #2e2f42;*/
+  color: #2e2f42;
 }
 .team-list {
   background-color: #ffffff;
@@ -166,9 +168,10 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
-  /*color: #2e2f42;*/
+  color: #2e2f42;
 }
 .portfolio-list {
+  background-color: #ffffff;
 }
 .portfolio-item {
 }
@@ -179,7 +182,7 @@ button {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  /*color: #2e2f42;*/
+  color: #2e2f42;
 }
 .portfolio-item-text {
   font-size: 16px;
@@ -189,7 +192,9 @@ button {
 }
 /*--------footer-----*/
 .footer {
+  font-family: "Raleway", sans-serif;
   background: #2e2f42;
+  color: #f4f4fd;
 }
 .footer-link {
   font-weight: 700;
@@ -197,14 +202,12 @@ button {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #f4f4fd;
 }
 
 .footer-logo-color {
-  color: #4d5ae5;
+  color: #f4f4fd;
 }
 .footer-text {
-  font-family: "Raleway", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
