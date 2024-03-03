@@ -89,7 +89,7 @@ button {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  text-align: center;
+  /*text-align: center;*/
   color: #fff;
 }
 .hero-order-btn {
@@ -103,7 +103,7 @@ button {
 }
 .hero-order-btn:hover,
 .hero-order-btn:focus {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 
 /*-------advantages-------*/
@@ -128,7 +128,7 @@ button {
 }
 /*---------team-------*/
 .team {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 .team-title {
   text-transform: capitalize;
@@ -136,7 +136,7 @@ button {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-align: center;
+  /*text-align: center;*/
   color: #2e2f42;
 }
 .team-list {
@@ -151,14 +151,14 @@ button {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  text-align: center;
+  /*text-align: center;*/
   color: #2e2f42;
 }
 .team-item-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: center;
+  /*text-align: center;*/
   color: #434455;
 }
 /*-----------portfolio-----*/
@@ -169,7 +169,7 @@ button {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-align: center;
+  /*text-align: center;*/
   text-transform: capitalize;
   color: #2e2f42;
 }
@@ -214,4 +214,5 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
