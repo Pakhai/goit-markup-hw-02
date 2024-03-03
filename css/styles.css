@@ -54,7 +54,10 @@ button {
   color: #2e2f42;
 }
 
-.header-menu-link:hover,
+.header-menu-link:hover {
+  color: #404bbf;
+}
+
 .header-menu-link:focus {
   color: #404bbf;
 }
@@ -115,7 +118,7 @@ button {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  /*color: #2e2f42;*/
+  color: #2e2f42;
 }
 .address-item-text {
   font-size: 16px;
@@ -149,7 +152,7 @@ button {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
-  /*color: #2e2f42;*/
+  color: #2e2f42;
 }
 .team-item-text {
   font-size: 16px;
@@ -194,7 +197,7 @@ button {
 .footer {
   font-family: "Raleway", sans-serif;
   background: #2e2f42;
-  color: #f4f4fd;
+  color: #4d5ae5;
 }
 .footer-link {
   font-weight: 700;
@@ -211,5 +214,4 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #f4f4fd;
 }
