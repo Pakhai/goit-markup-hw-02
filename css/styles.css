@@ -55,11 +55,11 @@ button {
 }
 
 .header-menu-link:hover {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 .header-menu-link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 .header-contact {
@@ -77,7 +77,7 @@ button {
 }
 .header-contact-link:hover,
 .header-contact-link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 /*---------herro-------*/
@@ -103,7 +103,7 @@ button {
 }
 .hero-order-btn:hover,
 .hero-order-btn:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 /*-------advantages-------*/
@@ -140,9 +140,9 @@ button {
   color: #2e2f42;
 }
 .team-list {
-  background-color: #fff;
 }
 .team-list-item {
+  background-color: #fff;
 }
 .team-item-image {
 }
